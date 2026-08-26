@@ -1,0 +1,10 @@
+EXAM REPORT
+===========
+
+Student: Rahul, Marks: 37, Grade: F
+Student: Priya, Marks: 63, Grade: C
+Student: Arun, Marks: 96, Grade: A
+Student: Sneha, Marks: 10, Grade: F
+Student: Kiran, Marks: 51, Grade: D
+
+Average Marks: 51.4

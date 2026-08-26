@@ -1,0 +1,20 @@
+#4. Product Rating Normalization
+#Ratings from different users:
+#ratings = np.array([2, 3, 4, 5, 1])
+#Task:
+# ● Normalize ratings to a range 0 to 1 using:
+# normalized = (value - min) / (max - min)
+
+import numpy as np
+
+ratings = np.array([2, 3, 4, 5, 1])
+
+minimum = np.min(ratings)
+maximum = np.max(ratings)
+
+normalized = (ratings - minimum) / (maximum - minimum)
+
+print("Original ratings:", ratings)
+print("Minimum rating:", minimum)
+print("Maximum rating:", maximum)
+print("Normalized ratings:", normalized)

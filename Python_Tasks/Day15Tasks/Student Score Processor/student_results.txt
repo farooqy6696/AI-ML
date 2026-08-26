@@ -1,0 +1,6 @@
+Student Score Report
+====================
+Rahul: 75
+Arun: 65
+Kiran: 80
+Average: 63

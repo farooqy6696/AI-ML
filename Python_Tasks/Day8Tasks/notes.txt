@@ -1,0 +1,3 @@
+Python File Handling
+Today I learned how to read a file.
+Practice every day.

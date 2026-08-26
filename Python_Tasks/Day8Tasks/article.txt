@@ -1,0 +1,3 @@
+Python is easy.
+I am learning Python.
+Practice every day.

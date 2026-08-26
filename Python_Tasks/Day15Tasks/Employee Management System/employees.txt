@@ -1,0 +1,3 @@
+ID: 101, Name: Rahul, Salary: 50000.0
+ID: 102, Name: Priya, Salary: 55000.0
+ID: 103, Name: Arun, Salary: 45000.0

@@ -1,0 +1,12 @@
+#7. Write an expression that calculates simple interest.
+
+principal = 10000
+rate = 5
+time = 2
+
+simple_interest = (principal * rate * time) / 100
+
+print("Principal =", principal)
+print("Rate =", rate)
+print("Time =", time)
+print("Simple Interest =", simple_interest)
