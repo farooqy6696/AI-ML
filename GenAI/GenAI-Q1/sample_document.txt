@@ -1,0 +1,16 @@
+Artificial Intelligence (AI) is rapidly transforming the software industry. Modern
+applications increasingly rely on machine learning models to automate tasks such as
+document summarization, question generation, sentiment analysis, and natural language
+understanding.
+
+Large Language Models (LLMs) like Google's Gemini are capable of reading unstructured
+text and producing structured, human-quality output. Enterprises use these models to
+speed up recruitment, generate documentation, and build intelligent assistants that
+integrate directly into existing business workflows.
+
+Building production-grade AI systems requires more than just calling a model API. It
+requires clean, layered architecture that separates concerns: data access (reading
+files and talking to databases), business logic (calling AI services and processing
+results), and presentation (the entry point that orchestrates everything and reports
+status to the user). This separation makes systems easier to test, maintain, and
+extend over time.
